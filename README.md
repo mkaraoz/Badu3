@@ -1,1 +1,1 @@
-Badu3: otomatik sızma testi rapor üreteci.
+Badu3 - otomatik sızma testi rapor üreteci.
